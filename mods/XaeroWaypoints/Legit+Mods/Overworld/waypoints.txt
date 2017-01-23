@@ -1,0 +1,3 @@
+waypoint:Cave:C:-424:68:13:6:false:0:gui.xaero_default:false:0
+waypoint:DownUnder:D:-238:30:189:0:false:0:gui.xaero_default:false:0
+waypoint:Home:I:-244:63:168:7:false:0:gui.xaero_default:false:0

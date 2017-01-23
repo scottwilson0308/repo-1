@@ -1,0 +1,5 @@
+waypoint:Hideout:C:-2216:37:0:9:false:0:gui.xaero_default:false:0
+waypoint:AbZom Spawn:Z:-2275:35:-96:4:false:0:gui.xaero_default:false:0
+waypoint:Dungeons&Diamonds:D:-2201:14:-112:2:false:0:gui.xaero_default:false:0
+waypoint:temp2:T:-2178:15:-79:8:false:0:gui.xaero_default:false:0
+waypoint:Home:H:-2294:65:28:11:false:0:gui.xaero_default:false:0
